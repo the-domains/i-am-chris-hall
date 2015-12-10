@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[I am Chris Hall]]></title>
+        <description><![CDATA[I am Chris Hall]]></description>
+        <link>https://thegrid.ai/i-am-chris-hall/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 20:39:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-am-chris-hall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 10 things I'm most afraid of.]]></title>
+            <description><![CDATA[<article><h1>The 10 things I'm most afraid of.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18cf66ec-abf3-44cc-b052-5931d111d8ff.jpg"></article>]]></description>
+            <link>https://thegrid.ai/i-am-chris-hall/the-10-things-im-most-afraid-of/index.html</link>
+            <guid isPermaLink="false">52a2f294-e95a-46f2-9db9-387667a4a349</guid>
+            <pubDate>Thu, 10 Dec 2015 20:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is my blog]]></title>
+            <description><![CDATA[<article><h1>This is my blog</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64bc64a-2a61-4f96-94b5-bfb744bc9e1d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/i-am-chris-hall/this-is-my-blog/index.html</link>
+            <guid isPermaLink="false">883a4847-ac65-473a-8842-b4d295342a0c</guid>
+            <pubDate>Thu, 10 Dec 2015 20:31:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
