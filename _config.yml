@@ -1,7 +1,7 @@
 name: I am Chris Hall
 favicon: null
-layout_spectrum: 0.18554387474432588
-typography_spectrum: 0.3779975352808833
+layout_spectrum: 0.7581
+typography_spectrum: 0.32432
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.07620365545153618
-  lightness: 0.5517264106310904
-  saturation: 0.4552854404319078
-  rhythmicContrast: 0.4211187658365816
+  lightness: 0.5625
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
