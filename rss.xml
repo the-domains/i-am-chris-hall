@@ -4,21 +4,35 @@
         <description><![CDATA[I am Chris Hall]]></description>
         <link>https://thegrid.ai/i-am-chris-hall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 20:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 20:48:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/i-am-chris-hall/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The 10 things I'm most afraid of.]]></title>
-            <description><![CDATA[<article><h1>The 10 things I'm most afraid of.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18cf66ec-abf3-44cc-b052-5931d111d8ff.jpg"></article>]]></description>
-            <link>https://thegrid.ai/i-am-chris-hall/the-10-things-im-most-afraid-of/index.html</link>
-            <guid isPermaLink="false">52a2f294-e95a-46f2-9db9-387667a4a349</guid>
-            <pubDate>Thu, 10 Dec 2015 20:39:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[This is my blog]]></title>
             <description><![CDATA[<article><h1>This is my blog</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64bc64a-2a61-4f96-94b5-bfb744bc9e1d.jpg"></article>]]></description>
             <link>https://thegrid.ai/i-am-chris-hall/this-is-my-blog/index.html</link>
             <guid isPermaLink="false">883a4847-ac65-473a-8842-b4d295342a0c</guid>
-            <pubDate>Thu, 10 Dec 2015 20:31:13 GMT</pubDate>
+            <pubDate>Thu, 10 Dec 2015 20:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Things I do that bug the hell out of me.]]></title>
+            <description><![CDATA[<article><h1>Things I do that bug the hell out of me.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b97d0d7f-0fe0-4e74-84ab-98f35e7401fd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/i-am-chris-hall/things-i-do-that-bug-the-hell-out-of-me/index.html</link>
+            <guid isPermaLink="false">ba383b92-13df-45cb-8bb0-bee980278b0e</guid>
+            <pubDate>Thu, 10 Dec 2015 20:43:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first to-do list.]]></title>
+            <description><![CDATA[<article><h1>My first to-do list.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d544853c-fbbc-4b95-b261-5c89ebc19117.jpg"></article>]]></description>
+            <link>https://thegrid.ai/i-am-chris-hall/my-first-to-do-list/index.html</link>
+            <guid isPermaLink="false">794510d1-492b-4e76-a291-3d7a35e1245e</guid>
+            <pubDate>Thu, 10 Dec 2015 20:41:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 10 things I'm most afraid of.]]></title>
+            <description><![CDATA[<article><h1>The 10 things I'm most afraid of.</h1><p>Not on the list: my handwriting.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18cf66ec-abf3-44cc-b052-5931d111d8ff.jpg"></article>]]></description>
+            <link>https://thegrid.ai/i-am-chris-hall/the-10-things-im-most-afraid-of/index.html</link>
+            <guid isPermaLink="false">52a2f294-e95a-46f2-9db9-387667a4a349</guid>
+            <pubDate>Thu, 10 Dec 2015 20:39:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
