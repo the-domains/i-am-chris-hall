@@ -1,0 +1,28 @@
+name: I am Chris Hall
+favicon: null
+layout_spectrum: 0.18554387474432588
+typography_spectrum: 0.3779975352808833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.07620365545153618
+  lightness: 0.5517264106310904
+  saturation: 0.4552854404319078
+  rhythmicContrast: 0.4211187658365816
+purpose: []
